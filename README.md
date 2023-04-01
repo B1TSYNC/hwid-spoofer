@@ -28,8 +28,7 @@
 
 Programming Language and Compiler used
 
-* [![cpp[c++]][cpp-url]
-* [![gpp][g++][gpp-url]
+c++ and g++
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -100,6 +99,6 @@ Remember this is open-source, so don't get your hopes up. This is merely just a 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/B1TSYNC/hwid-spoofer/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/B1TSYNC/hwid-spoofer/issues
